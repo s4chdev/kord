@@ -1,0 +1,11 @@
+node_modules/
+.env
+lavalink/jre/
+lavalink/logs/
+lavalink/Lavalink.jar
+lavalink/plugins/
+lavalink/*.bak
+*.log
+leaderboard-counts.json
+start-kord.sh
+

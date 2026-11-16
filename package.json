@@ -1,0 +1,42 @@
+{
+  "name": "kord",
+  "version": "1.0.0",
+  "description": "Discord music bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node --max-old-space-size=512 bot.js",
+    "lavalink:download": "node scripts/download-lavalink.js",
+    "lavalink:start": "node scripts/run-lavalink.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^16.4.7",
+    "shoukaku": "^4.3.0",
+    "spotify-url-info": "^3.2.16",
+    "undici": "^7.5.0"
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
